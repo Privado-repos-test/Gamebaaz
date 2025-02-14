@@ -12,7 +12,7 @@ Android             |  Backend
 
 ## The Gamebaaz app itself 🪄
 
-<img src="art/Gamebaaz_app.gif" width="300" height="600"/>
+<img src="art/Gamebaaz_app.gif" width="300" height="600"/> 
 
 ## 💡 About the Project
 
